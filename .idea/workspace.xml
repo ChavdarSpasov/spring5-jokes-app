@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a328ec3-5ffa-4170-8e03-d177da806596" name="Changes" comment="close #1" />
+    <list default="true" id="1a328ec3-5ffa-4170-8e03-d177da806596" name="Changes" comment="fix #2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1780785916049</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix #2">
+      <option name="closed" value="true" />
+      <created>1780786231828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780786231828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="close #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="close #1" />
+    <MESSAGE value="fix #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix #2" />
   </component>
 </project>
