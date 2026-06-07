@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a328ec3-5ffa-4170-8e03-d177da806596" name="Changes" comment="remove help file">
+    <list default="true" id="1a328ec3-5ffa-4170-8e03-d177da806596" name="Changes" comment="udate">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mytest/springframework/spring5_jokes_app/controllers/JokeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mytest/springframework/spring5_jokes_app/services/JokeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mytest/springframework/spring5_jokes_app/services/JokeServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780787107494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="udate">
+      <option name="closed" value="true" />
+      <created>1780787811109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780787811110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,6 +119,7 @@
     <MESSAGE value="fix #2" />
     <MESSAGE value="add new gitignore" />
     <MESSAGE value="remove help file" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove help file" />
+    <MESSAGE value="udate" />
+    <option name="LAST_COMMIT_MESSAGE" value="udate" />
   </component>
 </project>
